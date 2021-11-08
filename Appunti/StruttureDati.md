@@ -1,4 +1,4 @@
-STRUTTURE DATI 
+# STRUTTURE DATI
 
 Una struttura dati è un'entità usata per organizzare un insieme di dati all'interno della memoria del computer, ed eventualmente per memorizzarli in una memoria di massa.
 La struttura dati è un metodo di organizzazione dati, quindi prescinde da ciò che è effettivamente contenuto.
